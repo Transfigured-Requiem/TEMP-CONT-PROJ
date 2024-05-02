@@ -1,0 +1,6 @@
+{
+	"files.associations": {
+		"ili9341.h": "c",
+		"tsc2046.h": "c"
+	}
+}
