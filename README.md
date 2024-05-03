@@ -1,4 +1,11 @@
-# Temperature Controller PID Project
+# Temperature Controller Project
+
+## About
+
+This is the final year project for my master's degree.
+
+Supervisor: Professor Zitouni.
+Student: Abderrahmane Taha Khenchouche.
 
 ## Overview
 
