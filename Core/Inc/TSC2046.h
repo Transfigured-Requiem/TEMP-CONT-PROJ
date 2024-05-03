@@ -1,4 +1,7 @@
-// Written by: Abderrahmane Taha
+/*
+ * TSC2046.c
+ * Written by: Abderrahmane Taha
+*/
 
 
 //Header files

@@ -1,4 +1,7 @@
-// Written by: Abderrahmane Taha
+/*
+ * ILI9341.h
+ * Written by: Abderrahmane Taha
+*/
 
 
 //List of includes

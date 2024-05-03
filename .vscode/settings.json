@@ -1,6 +1,7 @@
 {
 	"files.associations": {
 		"ili9341.h": "c",
-		"tsc2046.h": "c"
+		"tsc2046.h": "c",
+		"lcd1602_i2c_lib.h": "c"
 	}
 }

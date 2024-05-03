@@ -1,4 +1,7 @@
-// Written by: Abderrahmane Taha
+/*
+ * ILI9341.c
+ * Written by: Abderrahmane Taha
+*/
 
 
 //Header files
